@@ -1,2 +1,1 @@
-# Spyros_Kalogeris
- Bootcamp ex.
+# Spikal
